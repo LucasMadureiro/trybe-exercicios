@@ -1,0 +1,45 @@
+
+h1 {
+    font-size: 65px;
+    color: orange;
+    font-family: sans-serif;
+  }
+
+  h2 {
+    color: rgb(128, 0, 0);
+  }
+
+  p {
+    font-family: monospace;
+    font-weight: 600;
+    font-size: 3em;
+    font-style: italic;
+    line-height: normal;
+    text-align: center;
+    text-decoration: underline;
+  }
+
+  #nome {
+    color: blue;
+  }
+
+  .teste {background-color: blue;
+
+  }
+  
+  ul{
+    background-color: red;
+  }
+
+
+  body {
+    background:linear-gradient(green, white);
+    font-size: 16px;
+  }
+  #nome {background-color: green;}
+  #foto {background-color: green;}
+  #sobre {background-color: green;}
+  #Soft {background-color: green;}
+  #foto {background-color: green;}
+  #meu-github {background-color: green;}
+  #destaques {background-color: green;}
